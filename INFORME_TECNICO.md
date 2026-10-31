@@ -107,8 +107,8 @@ El uso de `--split-per-abi` permite una optimización de transferencia móvil de
 
 ## 8. Enlace al Repositorio y Descarga de Builds
 
-* **Repositorio en GitHub (Público):** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11)
-* **Releases con Builds de Producción (APKs y AAB):** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0)
+* **Repositorio en GitHub (Público):** [https://github.com/Kenneth32Mena/TareaUCNappmovil](https://github.com/Kenneth32Mena/TareaUCNappmovil)
+* **Releases con Builds de Producción (APKs y AAB):** [https://github.com/Kenneth32Mena/TareaUCNappmovil/releases/tag/v1.0.0](https://github.com/Kenneth32Mena/TareaUCNappmovil/releases/tag/v1.0.0)
 
 ---
 

@@ -9,8 +9,8 @@ Aplicación móvil desarrollada con Flutter para la gestión y organización efi
 
 ## 🌐 Repositorio y Descarga de Builds
 
-* **Repositorio oficial en GitHub:** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11)
-* **Descarga de Builds Oficiales (APKs y AAB):** [Releases v1.0.0](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0)
+* **Repositorio oficial en GitHub:** [https://github.com/Kenneth32Mena/TareaUCNappmovil](https://github.com/Kenneth32Mena/TareaUCNappmovil)
+* **Descarga de Builds Oficiales (APKs y AAB):** [Releases v1.0.0](https://github.com/Kenneth32Mena/TareaUCNappmovil/releases/tag/v1.0.0)
 
 ---
 
@@ -39,8 +39,8 @@ Aplicación móvil desarrollada con Flutter para la gestión y organización efi
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11.git
-cd Mena_Kenneth_IS1910_S11
+git clone https://github.com/Kenneth32Mena/TareaUCNappmovil.git
+cd TareaUCNappmovil
 ```
 
 ### 2. Instalar dependencias

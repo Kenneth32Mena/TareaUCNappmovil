@@ -10,10 +10,10 @@ Fecha: 30 de Octubre de 2026
 🌐 ENLACES OFICIALES DEL PROYECTO
 
 1. REPOSITORIO OFICIAL EN GITHUB (PÚBLICO):
-   https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11
+   https://github.com/Kenneth32Mena/TareaUCNappmovil
 
 2. DESCARGA DIRECTA DE BUILDS DE PRODUCCIÓN (RELEASE v1.0.0):
-   https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0
+   https://github.com/Kenneth32Mena/TareaUCNappmovil/releases/tag/v1.0.0
 
    En esta sección de GitHub Releases puede descargar todos los paquetes compilados y firmados:
    • APK Universal: TareasUCN_Universal_Release.apk (49.22 MB)
