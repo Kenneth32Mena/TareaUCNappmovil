@@ -105,5 +105,12 @@ El uso de `--split-per-abi` permite una optimización de transferencia móvil de
 
 ---
 
-## 8. Conclusiones
+## 8. Enlace al Repositorio y Descarga de Builds
+
+* **Repositorio en GitHub (Público):** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11)
+* **Releases con Builds de Producción (APKs y AAB):** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0)
+
+---
+
+## 9. Conclusiones
 Se completaron con éxito todos los requisitos estipulados en la guía de la Sesión 11. El producto final cuenta con arquitectura modular, firma de producción segura y documentación profesional para su posterior publicación en Google Play Console.

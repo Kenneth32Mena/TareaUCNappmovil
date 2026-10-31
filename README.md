@@ -7,6 +7,11 @@
 
 Aplicación móvil desarrollada con Flutter para la gestión y organización eficiente de tareas académicas de estudiantes de la **Universidad Central de Nicaragua (UCN)**, como parte de la asignatura **IS-1910 Desarrollo de Aplicaciones Móviles con Flutter** (Sesión 11).
 
+## 🌐 Repositorio y Descarga de Builds
+
+* **Repositorio oficial en GitHub:** [https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11)
+* **Descarga de Builds Oficiales (APKs y AAB):** [Releases v1.0.0](https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0)
+
 ---
 
 ## 📱 Capturas y Características
@@ -34,8 +39,8 @@ Aplicación móvil desarrollada con Flutter para la gestión y organización efi
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/KennethMena/tareas_ucn.git
-cd tareas_ucn
+git clone https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11.git
+cd Mena_Kenneth_IS1910_S11
 ```
 
 ### 2. Instalar dependencias

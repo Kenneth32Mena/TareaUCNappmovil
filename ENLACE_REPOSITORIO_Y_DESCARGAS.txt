@@ -1,0 +1,35 @@
+======================================================================
+UNIVERSIDAD CENTRAL DE NICARAGUA (UCN)
+Facultad de Ingeniería y Arquitectura — Ingeniería en Sistemas
+Asignatura: Desarrollo de Aplicaciones Móviles con Flutter (IS-1910)
+Actividad: Ejercicio Práctico - Sesión 11: Build de Producción y Ficha de Publicación
+Estudiante: Kenneth Mena
+Fecha: 30 de Octubre de 2026
+======================================================================
+
+🌐 ENLACES OFICIALES DEL PROYECTO
+
+1. REPOSITORIO OFICIAL EN GITHUB (PÚBLICO):
+   https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11
+
+2. DESCARGA DIRECTA DE BUILDS DE PRODUCCIÓN (RELEASE v1.0.0):
+   https://github.com/Kenneth32Mena/Mena_Kenneth_IS1910_S11/releases/tag/v1.0.0
+
+   En esta sección de GitHub Releases puede descargar todos los paquetes compilados y firmados:
+   • APK Universal: TareasUCN_Universal_Release.apk (49.22 MB)
+   • APK arm64-v8a: TareasUCN_arm64-v8a_Release.apk (17.66 MB)
+   • APK armeabi-v7a: TareasUCN_armeabi-v7a_Release.apk (15.08 MB)
+   • APK x86_64: TareasUCN_x86_64_Release.apk (18.98 MB)
+   • App Bundle (AAB): TareasUCN_Release.aab (129.70 MB)
+
+======================================================================
+CONTENIDO DE ESTE PAQUETE DE ENTREGA (.RAR)
+======================================================================
+• Código Fuente Limpio: Proyecto Flutter completo (lib/, android/, ios/, assets/, etc.)
+  (Sin carpetas de caché pesadas como build/, .dart_tool/ o dependencias compiladas)
+• Documentación Técnica y Ficha de Tienda en formato PDF:
+  - Mena_Kenneth_IS1910_S11_Informe_Tecnico.pdf
+  - Mena_Kenneth_IS1910_S11_Ficha_Tienda.pdf
+• Capturas de Pantalla en Dispositivo Físico: Carpeta capturas/
+• Documentación Markdown: README.md, INFORME_TECNICO.md, FICHA_DE_TIENDA.md, POLITICA_DE_PRIVACIDAD.md
+======================================================================
