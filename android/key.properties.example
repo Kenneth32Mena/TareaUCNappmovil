@@ -1,0 +1,5 @@
+# Plantilla de ejemplo para firma en release (NO colocar contraseñas reales aquí)
+storePassword=ejemploPassword123
+keyPassword=ejemploPassword123
+keyAlias=upload
+storeFile=upload-keystore.jks
